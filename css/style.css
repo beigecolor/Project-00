@@ -1,0 +1,41 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  position: relative;
+  font-family: "Raleway", sans-serif;
+}
+
+h1 {
+  color: gray;
+}
+
+h2 {
+  padding: 20px;
+}
+
+h3 {
+  padding: 20px;
+}
+
+p {
+  padding: 50px;
+  text-align: justify;
+
+}
+
+.needs-validation {
+  padding: 50px;
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  text-indent: 1em;
+  padding: 20px;
+}
+
+.icons a {
+  text-decoration: none;
+}
