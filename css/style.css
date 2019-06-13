@@ -22,7 +22,10 @@ h3 {
 p {
   padding: 50px;
   text-align: justify;
-
+}
+.palawan {
+  width: 100vw;
+  height: 100vh;
 }
 
 .needs-validation {
