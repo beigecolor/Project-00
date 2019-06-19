@@ -47,3 +47,9 @@ p {
 .footer {
   background-color: darkgray;
 }
+
+.peopleCarouselImg img {
+  width: auto;
+  height: 1000px;
+  max-height: 1000px;
+}
