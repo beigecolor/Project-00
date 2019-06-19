@@ -5,6 +5,7 @@ html {
 body {
   position: relative;
   font-family: "Raleway", sans-serif;
+  background-color: cornsilk;
 }
 
 h1 {
@@ -41,4 +42,8 @@ p {
 
 .icons a {
   text-decoration: none;
+}
+
+.footer {
+  background-color: darkgray;
 }
